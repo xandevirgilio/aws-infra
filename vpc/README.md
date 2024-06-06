@@ -46,3 +46,4 @@ terraform apply
 #### Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias ou correções.
 
+![AWS](logo-aws.png)
