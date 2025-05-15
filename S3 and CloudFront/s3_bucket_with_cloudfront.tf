@@ -1,5 +1,5 @@
 ###################################################
-# Create a S3 bucket with CloudFront distribution##
+# Create a S3 bucket with CloudFront distribution #
 ###################################################
 
 provider "aws" {
